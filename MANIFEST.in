@@ -1,0 +1,4 @@
+include requirements.txt
+recursive-include kentik *.py
+global-exclude __pycache__
+global-exclude *.py[cod]
